@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112585b12f0ede2fce40e9fbb2f946ec5feebb414d&rid=giphy.gif&ct=g)
+[![MasterHead](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
 <h1 align="center">Hi 👋, I'm Foriduzzaman Zihad</h1>
 <h3 align="center">A passionate Coder from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
